@@ -3,7 +3,7 @@ const path = require('path');
 const express = require('express');
 const bodyParser = require("body-parser");
 const mongoose = require('mongoose');
-const mongooseUrl = `mongodb+srv://maicoding:JoQxPeyTb1J5t6kL@cluster0.tgsphu3.mongodb.net/messages?retryWrites=true&w=majority&appName=AtlasApp`;
+const mongooseUrl = 'url';
 const multer = require('multer');
 const { v4: uuidv4 } = require('uuid');
 
