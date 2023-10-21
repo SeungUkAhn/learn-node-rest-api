@@ -1,5 +1,5 @@
 # learn-node-rest-api
-Express.js REST API 구축
+노드를 학습하며 Express.js로 구축한 블로그 앱 REST API입니다.
 
 # 기능
 - 회원가입, 로그인(JWT 발급, 인증)
